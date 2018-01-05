@@ -4,3 +4,5 @@ $(document).keypress(function(e) {
     };
     console.log(search);
   })
+
+//use opensearch on wikipedia api
