@@ -1,0 +1,25 @@
+body{
+  background-color:  #092B40;
+}
+
+.search_element {
+  color: #D96F32;
+  border-color: #D96F32;
+  background-color: #092B40;
+  border-radius: 5px;
+  margin: auto;
+}
+
+.search_text{
+  color:white;
+  margin:auto;
+}
+
+#search_box{
+  width: 20em;
+}
+
+a:hover{
+  color:white;
+  text-decoration: none;
+}
