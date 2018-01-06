@@ -19,7 +19,13 @@ body{
   width: 20em;
 }
 
-a:hover{
+a, a:hover{
   color:white;
   text-decoration: none;
+}
+
+.result {
+  border: 1px #D96F32 solid;
+  border-radius:15px;
+  margin: 10px;
 }
