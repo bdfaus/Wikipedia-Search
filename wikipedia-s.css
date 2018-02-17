@@ -2,6 +2,14 @@ body{
   background-color:  #092B40;
 }
 
+h1{
+  font-size:32px !important;
+  color:green;
+}
+a{
+  color:white;
+  text-decoration:none;
+}
 .search_element {
   color: #D96F32;
   border-color: #D96F32;
